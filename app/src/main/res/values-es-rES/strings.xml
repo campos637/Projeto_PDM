@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">data_repository_P1_PDM</string>
+    <string name="tag_text">TAG</string>
+    <string name="img1">Un tigre con auriculares en un fondo verde</string>
+    <string name="img2">unas gafas de sol flotantes con una gorra roja</string>
+    <string name="img3">alguna imagen abstracta con un fondo azul</string>
+    <string name="text_find">Qué quieres encontrar?</string>
+    <string name="text_information">Aquí encontrarás información interesante</string>
+    <string name="text_photos">Fotos</string>
+    <string name="text_text">Texto</string>
+</resources>

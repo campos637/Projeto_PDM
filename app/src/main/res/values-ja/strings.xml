@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">data_repository_P1_PDM</string>
+    <string name="img1">緑の背景でイヤホンを着ているトラ</string>
+    <string name="img2">赤い帽子をかぶったフローティングサングラス</string>
+    <string name="img3">青色の背景を持ついくつかの抽象的なイメージ</string>
+    <string name="tag_text">鬼ごっこ</string>
+    <string name="text_find">何を見つけたいですか？</string>
+    <string name="text_information">ここでいくつかのクールな情報を見つけるでしょう</string>
+    <string name="text_photos">Shashin</string>
+    <string name="text_text">テキスト</string>
+</resources>

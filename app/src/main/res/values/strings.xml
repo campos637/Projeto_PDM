@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">data_repository_P1_PDM</string>
+    <string name="tag_text">TAG</string>
+    <string name="text_find">What do you want to find?</string>
+    <string name="text_information">Here you will find some cool information</string>
+    <string name="text_text">Text</string>
+    <string name="text_photos">Photos</string>
+    <string name="img2">a floating sunglasses wearing a red cap</string>
+    <string name="img3">some abstract image with a blue background</string>
+    <string name="img1">a tiger wearing earphones in a green background</string>
+</resources>
